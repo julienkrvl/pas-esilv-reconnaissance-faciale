@@ -1,12 +1,5 @@
 # pas-esilv-reconnaissance-faciale
  
-# Acknowledgement
-
-First of all, we would like to thank our project tutor, Mrs. Nadia ABINA, who has provided us with her experience as well as a great deal of advice and knowledge throughout this semester, both from a research and technical point of view and in terms of presentations.
-
-We also thank her for the follow-up of the missions entrusted to us and for her trust.
-
-We thank Mrs Sophie DEPEYRE, PAS project manager, for her help and orchestration of the project throughout this semester.
 
 **Table of contents**
 
@@ -399,19 +392,6 @@ To overcome these challenges, it is important for anthropologists to participate
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-1.
 # V.Resources
 
 -
