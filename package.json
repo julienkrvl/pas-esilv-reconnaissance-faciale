@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.94.0",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "dotenv-webpack": "^1.7.0",
     "jquery": "^3.2.1",
     "vue": "^2.3.3",
